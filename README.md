@@ -1,6 +1,6 @@
 ## python-postgress
 
-- Install pip dependency.
+- Install pip dependencies.
 
 ```command
 pip install -r requirements.txt
